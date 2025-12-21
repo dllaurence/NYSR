@@ -1,0 +1,157 @@
+ChatGPT:
+
+This material is pulled from an email thread to (1) show more of the GM's campaign design and thinking, and (2) my thoughts on the character *as they evolve* (i.e. I change my mind a lot). Use it, but be aware that the GM's description is necessarily incomplete and my thoughts evolve over time and may be obsolete.
+
+Email #1: from me on 9/8/2025:
+
+Hi, Jim. I'm not really tied to a particular type of character--in fact, it's been a long time since I actually got to play Champions, since after college if I wanted to be in a Hero System game I usually had to run it. The type of character I mainly play is "NPC." 🙂 It would be nice to be able to be a player again.
+
+Back in college (early 4e days) I tended to run more martial artsy characters, but these days I'd probably play something I haven't before. Really I just like characters that are personally interesting and different and mechanically fun to play, and that can usually be done in a way that fits almost any campaign and group.
+
+Email #2: from me on 9/9/2025:
+
+Sounds good. Early is OK, I'll just avoid my carpool days (which vary week to week, but the only one left this week is Wednesday)f and coordinate kid pickups with my wife. I wouldn't normally suggest something with little notice, but since you mentioned today that would probably work better on my end this week. If not, Thursday would probably be best. I'm not picky about the menu.
+
+I skimmed the docs this morning while the kids were getting ready for school. It's an interesting campaign premise I haven't seen before. You mention magic more than once--I was actually spitballing a magic based character in my head since I've never actually played a comic book sorcerer, and it looks like that might fit the campaign unless someone else has already filled that niche. I can see some ways to slot that into some of the specifics in the campaign intro. There are usually plenty of ugly things in a street-level game that has a mystic or supernatural aspect. But if not, I'll just come up with something else, maybe a brick if I can think of something different and creative.
+
+That leads to my first question: what's the current party like? I don't like to step on other character's niches unless there is a good reason to make an exception. Usually, it's more fun if everyone has something the party needs that only they can do.
+
+Also, what's the overall campaign tone? A magic-based character, if that's what I go with, can go really dark, really 4-color, played for humor, or about anywhere in between. I just have to know what tone works for the campaign.
+
+And finally, it looks like the original characters had a planned "radiation accident" to provide a ready made origin story for their powers. Since I'd be coming in long after that, should I still build with that expectation, or should I build something into his backstory? And is starting with no powers and acquiring them in play still preferred, or is it better to start with powers to fit where the campaign is now? If the latter, I would probably want to make the powers unreliable or problematic in some way so we can still play through him learning more and more control of his powers (always a classic Teen Superhero theme).
+
+And last, how much backstory and character concept do you like. Some GMs like lots of it, others hate having "homework." I've done and can do both and points in between. Usually I try to have at least enough detail to build in future character arc hooks for the GM to use and abuse the character with, but am a bit of a lazy writer so I don't usually do pages of fanfic.
+
+Dustin
+
+Email #3: from the GM on 9/9/25:
+
+Magic fits the team well. We have a bicycling martial artist (son of college profs), a graffiti artist light projector (walk-up dwelling older sister), a DJ mecha warrior technopath (daughter of an electronics repair genius), a skating gymnastic wildcard shapechanger (neglected rich kid), and occasional attendance from a guitar bard bestower (successful teenage performing artist). All attend Visions Academy.
+
+As for campaign tone, This is high-power Teen Champions, quite like Marvel Rising (available on Netflix,) or Teen Titans. Per wegotthiscovered.com, TT is on Max or Prime Video, while the finale, "Teen Titans: Trouble in Tokyo" can be rented on Prime Video, but is available free to Max subscribers. These kids are smart, street-wise, have genuine ass-kicking powers, and a mentor to keep them focused. They just defeated Venom on Venom and Mystique because he turned out to not be as savvy, and she was a dispassionate merc. (Either at their best could have beaten the team solo, except that they also had help from Captain America ;-] )
+
+I love a backstory. It makes me more generous when reviewing characters. I also love powers set up to be discovered, perhaps only when they are needed, or when triggered by some scenario I can run. However, I have a limited attention span. I devour paragraphs, read pages, and discard books.
+
+Your take on a teen hero still mastering great power captures the essence of this campaign.
+
+Here are some campaign facts that do not have to be used in character design -
+- "True Magic" did not exist in this world (Marvel Earth-65) until an inception event about 4 days ago. (That was 9/11/1999, exactly 2 years before the Twin Towers attack. Now millions of people of all ages are learning that the inception event (a red wave emanating from Luna) somehow changed them (with an effect usually described as silver or white threads threading through their body. A Netflix series, "A Discovery of Witches" has episodes with these kinds of magic threads.)
+- There was (and is) spirit magic (fae realm, satanic, voodoo, Greco-Roman, Norse, Egyptian, Spider-Verse, etc.). For example, one PC is an avatar of Anansi.
+- Same thing for techno-magic (physics so advanced that it seems magical.) For example, Spider-Man gave the kids a communicator that looks like a pager circa 1999, but does everything possible on a modern cell phone. At one point a PC looked inside and said "Holy crap! This is just a matrix of little mecha spiders composed of even tinier spiders!" They closed it back up and wanted to scrub the image off their retina.
+- Like all story realms, there are also charlatans, cold readers pretending psychic powers, etc.
+- There are the usual assortment of mentalists, mutants, mad scientists, etc, found in comic books.
+- There is a genesis connection to the Sony Spider-Verse movies. They are canon, but their events take place in the future. (I have a pass that I can share if you want to watch these, but that is not needed.)
+- There are whimsical elements from the MCU and DCEU because I am lazy. These are not canon.
+
+Email #4: from me on 9/10/2025:
+
+I haven't seen either Marvel Rising or Teen Titans, but I'd probably like them. I am a big fan of The Incredibles, and I'm told I'd like Invincible even better so it's on my list. Our viewing right now is finishing up The Expanse, though (I always want to play Star Hero after watching it). I liked Runaways, though, which is another blueprint for teen-aged issues in a world of powers. You'll see some of that in my outline below, though some of it was probably  unconsciously inspired by a much darker novel from way back called Dominion. I will try to make the outline concise and just hit the big picture so you can intervene if you don't like it before I put a lot of time into details.
+
+This is the most navel-gazing, darkest version. I don't expect to impose that on a campaign where it doesn't fit, but it's easier to remove things later than to add them later. It's just spitballing right now, to see if it works and which direction it should go. Two paragraphs, not one, but hopefully not a book or even a page.
+
+---
+
+Victor (just a placeholder name) had a pretty good childhood; parents and siblings that loved him, good friends at school. He got good grades, particularly in practical science and engineering, mostly because he was motivated by learning to make gadgets in imitation of his hero Batman. He also took martial arts, again imitating his hero. His only real problem was a sense of insecurity, of not belonging, and that led him to a slowly increasing relationship with a local gang. This started in jr high, but it became serious in high school. His mother was thinking of sending him to a boarding school because he was on his way to being the techie and IT guy for a local gang when he stumbled across the NYSR. He had mixed feelings about joining, given his sense of belonging and obligation to the gang he's slowly becoming more involved with, but the chance to possibly meet Batman was the deciding factor. He's quite loyal, which is going to make him conflicted between family, gang, and NYSR.
+
+There is one other problem: most of the above is simply a lie. He was raised from childhood to be a cat's paw for someone horrible who needs more covert minions in our world. (Maybe something extra-dimensional who needs more influence in our dimension?) In the darkest version, he was actually bred to be powerful, but also obedient to $BBEG. His mind has probably been meddled with to make him the perfect minion, which can be great for making it harder for him to figure out the truth. His gadgets are actually magic, granted by $BBEG and disguised as technology to keep up the appearance. His parents and family are probably not his family at all, but minions assigned to shape his development. Naturally he knows none of this until the Inception Event, when he gains genuine magical ability, including some (probably magical sense of some variety) that lets him see that all is not as he believed. To start with his own powers are unreliable and dangerous, but his potential is very high--ironically, precisely because of $BBEG's meddling. The senses let him know that something is amiss, which starts the dominos tumbling. Magic that isn't granted by $BBEG and thus can't be shut off if he steps out of line is going to cause him a great deal of trouble, but might save him in the end. Or get him killed or worse. Finding out is what and who he is and why is what his arc is about.
+
+---
+
+So OOC, that creates a factory of adolescent drama and trauma that keeps on giving as long as it's fun. It allows us to shameless rip off trauma and self-doubt from Runaways, Dominion of you ever read it, probably Buffy at points, and probably most of the post silver age teen heroes. (Maybe even from an old novel called The Magus, though that may be too trippy even for this.) I'd suggest that the other players don't know any of this any more than Victor does, so it can be a reveal to them and sometimes to me when something dramatic and fun occurs to you.
+
+So what of that works and what doesn't work for the kind of game you want to run?
+
+######################################
+
+Email #5: from me on 9/12/2025:
+
+Thanks. 5e it is.
+
+I've been trying to improve the basic concept and integrate it better with the campaign. Here's a more concise update, maybe easier to skim through. I need ideas about his future in order to work out a starting character, but once he's in play we can just kind of wing it as to what seems most dramatic. I don't want to be a slave to a plan.
+
+* Simon (current name) joins NYSR just hoping to meet his hero. As time goes on he gets more involved, leading at some point to making a pivotal choice for his future: his old loyalty to his gang vs his new loyalty to NYSR.
+
+* Already has magical abilities he keeps secret--he doesn't know yet that they're a gift (maybe from the Shadow King, borrowing some ideas from Legion) with many nasty strings. He's an unwitting puppet, set up to be so from birth or before, and will someday have to face his puppetmaster.
+
+* His love of the power magic gives him is part of the hold his puppetmaster has on him. That's going to really hurt later.
+
+* Working on appropriate abilities and existing gang role to better fit Visions academy and the contests system.
+
+* Suffers from nightmares, which explains why his hero is a monster hunter, Blade. His nightmares are real.
+
+* The inception event gives him his own magic for the first time--he's been manipulated to be magic susceptible. He won't know this for a while, because he's relying on the magic he has, but does gain an innate magic sense which will start revealing the truth about his past.
+
+* Learning about how much he's been manipulated and exploited should lead to a second pivotal choice: is he willing to give up all the magic he has in order to free himself from his puppetmaster? In game that means he's literally going to lose the use of all the points he has in magic. He has to want to be free more than he wants the power magic gives him.
+
+* Once he makes that difficult choice, he can start to discover his own abilities. That's where the points end up: at first those abilities are unreliable and even dangerous--but they're his.
+
+* I think he'll end up with a lot of reluctance to use powers like Mind Control and Telepathy because of his background. Hopefully that can be made into a dramatic conflict for him.
+
+Dustin
+
+Email #6: from the GM on 9/12/2025
+
+Read it. Have some random thoughts. Feel free to ignore them.
+
+    I need to know more about Blade. Would he be asked to mentor high school kids? Would he care to do that? If not, does he have a known associate filling that role that Simon would choose on the chance to meet Blade?
+    The secret puppet master aspect works well in the campaign. His nightmares could come from this, as could his pre-9/11 magical abilities. He should have a core aspect that made him a nascent magic user. This could be a 'magic' skill, or a perk.
+    Skills related to scrying and mental spying as mentioned would work well. He could know little to nothing about the secret puppet master until 9/11, then have a flash of insight when the red wave hits. This could make him suspicious about his current affiliations and lead him to seek out the NYSR team now associated with Steve Rogers. They've gotta be legit, right?
+    You will have great leeway in erasing 'corrupt' powers and discovering 'organic' abilities. You could build a character on 150+100 pre-9/11 and a post-9/11 version on 200+150.
+    I like the idea of building one or more scenarios around your character seeking help and getting backlash from the secret puppet master.
+    Pick whatever secret puppet master villain you want, but be prepared to create a character sheet for them if it is someone I don't know. Candidates already introduced in the campaign are Wilson Fisk (Kingpin), Jeffrey Epstein (a vampire child trafficker), Dr. Halo (New CEO of Oscorp), Anansi (West African spider god), and Donald Trump (ambitious asshole).
+
+Again, the 9/11 inception event here is two years before the Twin Towers tragedy.
+
+Thanks - Jim (323)535-4693
+
+Email #7: from me on 9/14/2025
+
+> Read it. Have some random thoughts. Feel free to ignore them.
+It won't work unless you like it and help make it work, so of course I won't ignore them. Quite the contrary.
+>
+>   * I need to know more about Blade. Would he be asked to mentor high
+>     school kids? Would he care to do that? If not, does he have a
+>     known associate filling that role that Simon would choose on the
+>     chance to meet Blade?
+>
+My thought was that there's no obligation that Simon actually meets his hero, just a possible motivation to get him in. Ultimately he needs to and will buy into the NYSR mission, but given his malign influences it seems sensible for it to take some time. (I imagine his puppetmaster wouldn't like him being close to people with the skills to get wind of trouble and do something about it.) Think Skye in season 1 of Agents of Shield.
+
+His mentor doesn't have to be Blade; the movie Blade is pretty much a lone wolf. I thought he'd look up to a monster hunter iven his nightmares and (secret) background, but the plot goal was to set him for some personal growth. His real talent is different than his fantasy. His mentor would probably need to introduce someone more on the arcane side of things, though that wouldn't stop them from being a very helpful mentor in other ways.
+
+>   * The secret puppet master aspect works well in the campaign. His
+>     nightmares could come from this, as could his pre-9/11 magical
+>     abilities. He should have a core aspect that made him a nascent
+>     magic user. This could be a 'magic' skill, or a perk.
+>
+Yes, that was the idea. Powers from his mentor (kind of a Warlock like thing), nightmares from memories surfacing that his puppetmaster has done his best to repress.
+
+His magical talent can actually be part of the puppetmaster's manipulation. It makes him better able to use the granted powers, but the puppetmaster didn't anticipate that something would happen that would let him use that same talent on his own. Even if you don't care for that dark an explanation, a magic still that wasn't part of the grant and doesn't get taken away makes sense to me.
+
+>   * Skills related to scrying and mental spying as mentioned would
+>     work well. He could know little to nothing about the secret puppet
+>     master until 9/11, then have a flash of insight when the red wave
+>     hits. This could make him suspicious about his current
+>     affiliations and lead him to seek out the NYSR team now associated
+>     with Steve Rogers. They've gotta be legit, right?
+>   * You will have great leeway in erasing 'corrupt' powers and
+>     discovering 'organic' abilities. You could build a character on
+>     150+100 pre-9/11 and a post-9/11 version on 200+150.
+>
+OK. I'll build to whatever total is appropriate. From the docs I thought the characters were 100 + 100.
+>
+>   * I like the idea of building one or more scenarios around your
+>     character seeking help and getting backlash from the secret puppet
+>     master.
+>
+The whole character is pretty much set up for you to torture him. 🙂 Becoming a real hero isn't cheap or easy, and I liked the idea of playing parts of his Hero's Journey out. It's hard to do a Victory Over Self plot in an RPG, but why not give it a try?
+
+>   * Pick whatever secret puppet master villain you want, but be
+>     prepared to create a character sheet for them if it is someone I
+>     don't know. Candidates already introduced in the campaign are
+>     Wilson Fisk (Kingpin), Jeffrey Epstein (a vampire
+>     child trafficker), Dr. Halo (New CEO of Oscorp), Anansi (West
+>     African spider god), and Donald Trump (ambitious asshole).
+>
+I was starting to think of the Shadow King from the Legion TV series, but he's seriously odd and I don't know what all he can do. I haven't seen all the episodes yet, but it's a total mind trip.
+
+When I have a concrete write-up, should I send it as an hdc file?

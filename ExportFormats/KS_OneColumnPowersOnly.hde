@@ -1,0 +1,119 @@
+<!--TEMPLATE_NAME-->HTML - One Column Powers & Equipment Only<!--/TEMPLATE_NAME--><!--TEMPLATE_DESCRIPTION-->
+<p>
+The file "herologo.jpg" needs to be included in same directory as the export file.
+<p><font align="left"><b>This format has the "look and feel" of the Default character sheet, but only outputs Powers & Equipment (if any)
+</font></b>
+
+
+<p>--Modified from the Default character sheet by Killer Shrike (<a href="mailto:killershrike@killershrike.com">killershrike@killershrike.com</a>) April 2003; revised April 2006
+<!--/TEMPLATE_DESCRIPTION--><!--FILE_EXTENSION-->html<!--/FILE_EXTENSION--><!--FILE_EXTENSION-->htm<!--/FILE_EXTENSION--><HTML>
+<HEAD>
+<TITLE><!--CHARACTER_NAME--></TITLE>
+<STYLE TYPE="text/css">
+BODY {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: black;
+	background-color: white;
+}
+
+TD {
+	font-size: 10pt;
+}
+
+TABLE.small {
+	font-size: 8pt;
+}
+TABLE.content {
+	font-size: 10pt;
+}
+
+TD.header {
+	font-size: 12pt;
+	font-weight: bold;
+	color: white;
+	background-color: black;
+	border: solid black 2px;
+}
+
+TD.content {
+	font-size: 10pt;
+}
+TD.small {
+	font-size: 8pt;
+}
+SPAN.small {
+	font-size: 8pt;
+}
+</STYLE>
+</HEAD>
+<BODY>
+<table border=0 cellpadding=0 cellspacing=5 width=100% valign="top" style="width: 188mm; border: solid black 1px;">
+	<tr>
+		<td colspan=5 valign="top">
+			<table border=0 cellpadding=0 cellspacing=5 width=100% valign="top">
+				<tr>
+					<td style="font-size: 8pt">
+						<b>Powers & Equipment Page</b><br>
+						<b>Character Name:  </b><!--CHARACTER_NAME--><br>
+						Alternate Identities:  <!--ALTERNATE_IDS--><br>
+						Player Name:  <!--PLAYER_NAME--><br>
+					</td>
+					<td align="right" width="34%" colspan=2>
+						<img width=150 height=60 src="herologo.jpg">
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan=3 width=100% valign="top">
+			<table border=0 cellpadding=2 cellspacing=0 width=100%>
+				<!--IFPOWERS-->
+				<tr>
+					<td align="left" class="header" colspan=3 style="padding: 0px;">
+						POWERS
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top"><b>Cost&nbsp;</b></td>
+					<td align="left" width="100%" valign="top"><b>Power</b></td>
+					<td align="center" valign="top"><b>END</b></td>
+				</tr>
+				<!--POWERS-->
+				<!--COMPOUND_POWER_SEPARATOR--> <b>plus</b> <!--/COMPOUND_POWER_SEPARATOR-->
+				<tr>
+					<td align="center" valign="top" class="small"><!--POWER_COST--></td>
+					<td align="left" valign="top" class="small"><!--IFLIST--><div style="margin-left: 15px;"><!--LISTPREFIX--><span style="padding-left: 10px;"><!--/IFLIST--><!--IFNAME--><i><!--NAME-->: </i><!--/IFNAME--><!--POWER_TEXT--><!--IFNOTES--><div style="margin-left: 30px; font-size: 8pt;"><b>Notes: </b><!--POWER_NOTES--></div><!--/IFNOTES--><!--IFLIST--></span></div><!--/IFLIST--></td><td align="center" valign="top" class="small"><!--POWER_END--></font></td>
+				</tr>
+				<!--/POWERS-->
+				<tr>
+					<td align="center" valign="top"><b><!--POWER_POINTS--></b></td>
+					<td align="left" colspan=2 valign="top"><b>Total Powers Cost</b></td>
+				</tr>
+				<!--/IFPOWERS-->
+			</table>
+			<table border=0 cellpadding=2 cellspacing=0 width=100%>
+				<!--IFEQUIPMENT-->
+				<tr>
+					<td align="left" class="header" colspan=3 style="padding: 0px;">
+						EQUIPMENT
+					</td>
+				</tr>
+				<tr>
+					<td align="left" width="100%" valign="top" colspan=2><b>Equipment</b></td>
+					<td align="center" valign="top"><b>END</b></td>
+				</tr>
+				<!--EQUIPMENT-->
+				<tr>
+					<td align="left" valign="top" colspan="2" class="small"><!--IFLIST--><div style="margin-left: 15px;"><!--LISTPREFIX--><span style="padding-left: 10px;"><!--/IFLIST--><!--IFNAME--><i><!--NAME-->: </i><!--/IFNAME--><!--EQUIPMENT_TEXT--><!--IFNOTES--><div style="margin-left: 30px; font-size: 8pt;"><b>Notes: </b><!--EQUIPMENT_NOTES--></div><!--/IFNOTES--><!--IFLIST--></span></div><!--/IFLIST--></td><td align="center" valign="top"><!--EQUIPMENT_END--></font></td>
+				</tr>
+				<!--/EQUIPMENT-->
+				<!--/IFEQUIPMENT-->
+			</table>
+		</td>
+	</tr>
+</table>
+<span style="font-size: 8pt; font-family: Arial, Helvetica, sans-serif;">Character created with <a href="http://www.herogames.com" target="new">Hero Designer</a> (version <!--APP_VERSION-->)
+</body>
+</html>

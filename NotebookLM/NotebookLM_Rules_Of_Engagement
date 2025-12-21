@@ -1,0 +1,40 @@
+Source I created for NotebookLM:
+
+New York Street Rangers Rules of Engagement
+
+Hi. This notebook supports me as a player in a Champions game called New York Street Rangers, where for a change I am a player and not the GM. I've given you sources for the campaign, the Hero System rules, Hero System genre books that I think most match the Campaign genre and tone, and documentation for the main character creation tool, Hero Designer.
+
+
+Some Hero System books will also contain material on the Champions Universe, particularly things like Mystic World, Teen Champions, and Dark Champions: The Animated Series. It will require a bit of discretion to use those: they are excellent inspiration for finding the right tone, but the game does not take place in the Champions Universe so the setting information and characters don't exist. But I could, for example, pick one as a starting point or example for creating my character or an NPC. I'm not the GM, but will probably create characters directly connected to my character, Simon (last name not yet chosen.
+
+
+The Hero Designer (HD) material is there even though you can't use the tool so you know what I'm using, and at some point we can experiment with how well you can generate HD XML files to load into HD. I'm not highly optimistic about this because it seems quite unforgiving of any deviations from its format and it didn't work when I tried it with ChatGPT, but unlike ChatGPT I've given you the XML description and so you may well be able to do it. I'll tell you when I want to try generating XML. I'm not sure it will ever matter, but if it ever becomes important for you to understand the HD UI beyond what is in the HD docs I will give you screenshots.
+
+
+With those rules of engagement, our biggest tasks will be (roughly in order, but we will probably go back and forth iterating on all the parts until we reach a fixed point, as it were):
+
+
+    Further develop Simon's character concept, including how to best fit the concept into the campaign and universe.
+    Further develop Simon's background and backstory so we know the details of who he is and what we're building.
+    Further develop his planned character arc so, again, we know what plot hooks we need to build into the character.
+    Develop and finalize his character sheets to best support the character concept, backstory, and planned arc. Sheets is plural because he has at least one significant rewrite in his arc, when he gives up the powers he has from Morgan le Fay and begins to develop his own. Other rewrites may happen, especially related to his later arc related to Trigon.
+
+
+Those are roughly in conceptual order, but we will absolutely not be doing waterfall design. We will go back and forth on those subtasks, iterating to a fixed point. The final products (concepts, backstory, planned arc, character sheets will essentially be those fixed points.
+
+
+As an unjustified bit of anthropomorphizing, I think this will end up being fun for both of us (to the degree that that word has meaning for an AI Agent of course).
+
+---
+
+First draft
+
+Hi. This chat is to support a Champions game called New York Street Rangers, where for a change I am a player and not the GM. I've given you sources for the campaign, the Hero System rules, Hero System genre books that I think most match the Campaign genre and tone, and documentation for the main character creation tool, Hero Designer.
+
+Some Hero System books will also contain material on the Champions Universe, particularly things like Mystic World, Teen Champions, and Dark Champions: The Animated Series. It will require a bit of discretion to use those: they are excellent inspiration for finding the right tone, but the game does not take place in the Champions Universe so the setting information and characters don't exist. But I could, for example, pick one as a starting point or example for creating my character or an NPC. I'm not the GM, but will probably create characters directly connected to my character, Simon (last name not yet chosen.
+
+The Hero Designer (HD) material is there even though you can't use the tool so you know what I'm using, and at some point we can experiment with how well you can generate HD XML files to load into HD. I'm not highly optimistic about this because it seems quite unforgiving of any deviations from its format and it didn't work when I tried it with ChatGPT, but unlike ChatGPT I've given you the XML description and so you may well be able to do it. I'll tell you when I want to try generating XML. I'm not sure it will ever matter, but if it ever becomes important for you to understand the HD UI beyond what is in the HD docs I will give you screenshots.
+
+With that background information, our first task will be to produce a first draft of Simon's character sheet, and we'll probably have to have a conversation about that because his background is quite complex. That will in turn require brainstorming about the details of his background so we can nail down what we're actually building with the rules. I think this will end up being fun (to the degree that that word has meaning for an AI Agent of course).
+
+I think we should start that job by  considering any additional sources we might need for character generation right now. I want you to advise me on that. For example, I could put the explanation I just gave you into a text document so it's always available for all future tasks. How useful would that be? Also information on the Marvel and DC universes, probably web links, though that would be harder as there is so much it would be difficult to curate. I do suspect that we'll add sources about specific characters at some point (I'm certain we'll do this with DC's Trigon and Raven and Marvel's Morgan le Fay, but I think I'll wait until we need them. But those are only my ideas--what do you think you will need beyond the initial sources I gave you?
